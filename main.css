@@ -1,0 +1,17 @@
+header{
+    width: 900px; margin: 0 auto; text-align: center;
+}
+.appsbutton{
+    width: 30px; height: auto; margin-top: 30px;
+}
+.arama{
+    width: 300px;
+    margin: 30px auto;
+    border: 1px solid #ccc;
+    text-align: left;
+    padding: 20px;
+}
+
+.arama:hover{
+    box-shadow: 3px 3px 5px gainsboro;
+}
